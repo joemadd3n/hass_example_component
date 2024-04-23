@@ -1,0 +1,8 @@
+// manifest.json
+
+{
+    "domain": "example",
+    "name": "Example Custom Component",
+    "documentation": "https://github.com/example/example",
+    "dependencies": []
+}
