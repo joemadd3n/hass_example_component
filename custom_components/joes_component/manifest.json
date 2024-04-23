@@ -1,5 +1,3 @@
-// manifest.json
-
 {
     "domain": "example",
     "name": "Example Custom Component",
